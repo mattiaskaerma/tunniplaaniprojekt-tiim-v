@@ -14,9 +14,8 @@ Kadi Remmelgas-Luka TA-20 / Kris-Kristofer Burk TAK-18 / Risto Siimer / Karl-Mih
 ## Projekti lähteülesanne
 Wireframe põhjal luua töötav tunniplaani mobiilivaade. <br/>
 
-[Nõudmised projektile] <br/>
+[Nõudmised projektile](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2020%E2%88%9521-PROJEKT-nr-2-%E2%80%92-Tahvli-tunniplaan)<br/>
 
-(https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2020%E2%88%9521-PROJEKT-nr-2-%E2%80%92-Tahvli-tunniplaan)
 Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada ja info peab olema arusaadavam. Tunniplaani disain peab olema kasutajasõbralikum ja ta peab infot võtma etteantud APIst, kasutades JavaScripti.
 
 ## Projekti disain ja prototüüpimine
