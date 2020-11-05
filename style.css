@@ -1,6 +1,6 @@
 body{
     margin:0;
-    background-color: #232323;
+    background-color: white;
 }
 
 .container{
@@ -12,7 +12,8 @@ justify-content: space-between;
 .tund{
     display: flex;
     justify-content: space-between;
-    background-color: #242631;
+    background-color: #9EE9E0;
+    border-radius:10px;
     margin: 1rem;
     padding: 1%;
 }
@@ -20,13 +21,14 @@ justify-content: space-between;
     display: flex;
     flex-direction: column;
     width: 33%;
-    color: whitesmoke;
+    color: black;
 }
 .leftside span{
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    color: whitesmoke;
+    color: black;
+    margin-left: 4px;
 }
 .rightside{
     display: flex;
@@ -42,7 +44,7 @@ justify-content: space-between;
     font-style: normal;
     font-weight: normal;
     text-align: center;
-    color: whitesmoke;
+    color: black;
 
 }
 .side{
@@ -50,28 +52,31 @@ justify-content: space-between;
     justify-content: flex-end;
     flex-basis: 33%;
     flex-shrink: 1;
-    color: white;
+    color: black;
     font-family: Roboto;
     
 }
 .pealkiri{
-    font-size: 23px;
+    font-size: 16px;
     line-height: 27px;
     color: whitesmoke;
 }
 .tunninr{
-    font-size: 14px;
+    font-size: 16px;
     line-height: 16px;
     color: whitesmoke;
 }
 .aeg{
-    font-size: 12px;
+    font-size: 20px;
     line-height: 14px;
     color: whitesmoke;
+    margin-top: 7px;
 }
 .ruum{
-    font-size: 14px;
+    font-size: 20px;
     line-height: 16px;
+    margin-top: 7px;
+    margin-right: 13px;
 }
 .op{
     font-size: 14px;
@@ -101,9 +106,9 @@ justify-content: space-between;
     border-width: 0;
     justify-content: center;
     align-content: center;
-    background-color: #393939;
+    background-color: #9EE9E0;
     margin: 0.1em;
-    color: whitesmoke;
+    color: black;
 }
 .tuesday{
     display: flex;
@@ -115,9 +120,9 @@ justify-content: space-between;
     border-width: 0;
     justify-content: center;
     align-content: center;
-    background-color: #393939;
+    background-color: #9EE9E0;
     margin: 0.1em;
-    color: whitesmoke;
+    color: black;
 }
 .wednesday{
     display: flex;
@@ -127,25 +132,25 @@ justify-content: space-between;
     padding:1rem;
     border-radius:10px;
     border-width: 0;
-    background-color: #242631;
+    background-color: #d0caca;
     justify-content: center;
     align-content: center;
     margin: 0.1em;
-    color: whitesmoke;
+    color: black;
 }
 .thursday{
     display: flex;
     flex: 1;
     border-style:solid;
-    border-color: #FFBE5C;
+    border-color: #2E8799;
     padding:1rem;
     border-radius:10px;
     border-width: 0;
-    background-color: #383022;
+    background-color: #9EE9E0;
     justify-content: center;
     align-content: center;
     margin: 0.1em;
-    color: whitesmoke;
+    color: black;
 }
 .friday{
     display: flex;
@@ -155,64 +160,26 @@ justify-content: space-between;
     padding:1rem;
     border-radius:10px;
     border-width: 0;
-    background-color: #242631;
+    background-color: #9EE9E0;
     justify-content: center;
     align-content: center;
     margin: 0.1em;
-    color: whitesmoke;
+    color: black;
 }
-.saturday{
-    display: flex;
-    flex: 1;
-    border-style:solid;
-    border-color: #C6C6C6;
-    padding:1rem;
-    border-radius:10px;
-    border-width: 0;
-    justify-content: center;
-    align-content: center;
-    background-color: #393939;
-    margin: 0.1em;
-    color: whitesmoke;
-}
-.sunday{
-    display: flex;
-    flex: 1;
-    border-style:solid;
-    border-color: #C6C6C6;
-    padding:1rem;
-    border-radius:10px;
-    border-width: 0;
-    justify-content: center;
-    align-content: center;
-    background-color: #393939;
-    margin: 0.1em;
-    color: whitesmoke;
-}
+
 .tunniplaan{
     display: flex;
     flex: 1;
     justify-content: center;
-    font-family: 'Roboto', sans-serif;
-    color: whitesmoke;
+    font-family: 'Noto Serif KR', serif;
+    color: black;
 }
-.freeroom{
-    display: flex;
-    flex: 1;
-    background: #383022;
-    font-family: 'Roboto', sans-serif;
-    align-items: center;
-    justify-content: center;
-    height: 3em;
-    border-radius: 10px;
-    margin-left: 1rem;
-    margin-right: 1rem;
-    color: whitesmoke;
-}
+
 .lunch{
     display: flex;
     justify-content: space-between;
-    background-color: #393939;
+    border-radius:10px;
+    background-color: #d0caca;
     margin: 1rem;
     align-items: center;
     padding: 1%;
@@ -221,7 +188,7 @@ justify-content: space-between;
     display: flex;
     align-content: center;
     justify-content: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Serif KR', serif;
     text-align: center;
     margin: 2%;
     padding-top: 0.5rem;
@@ -236,9 +203,10 @@ justify-content: space-between;
 }
 .chevron{
     font-family: 'Roboto', sans-serif;
-    font-size: 2em;
+    font-size: 20px;
     margin-left: 5%;
     margin-right: 5%;
+    color: black;
 }
 
 .lounapealkiri{
@@ -254,4 +222,10 @@ justify-content: space-between;
     margin-right: 1rem;
     padding: 1%;
     color: whitesmoke;
+}
+.weeks{
+    color: black;
+}
+.leftsides{
+    color: black    ;
 }
