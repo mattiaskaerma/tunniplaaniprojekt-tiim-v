@@ -1,6 +1,6 @@
 let groupDict = {}
 let weeksDict = {}
-const currentWeek = 9
+const currentWeek = 8
 const groups = document.querySelector('#groups')
 const groupNames = document.querySelector('#groupNames')
 const timetable = document.querySelector('.timetable')
@@ -13,11 +13,7 @@ fetch('https://be.ta19heinsoo.itmajakas.ee/api/groups').then(response => {
     return response.json()
 }).then(data => {
     data.forEach(group => {
-        groupDict[group.groupId] = group.groupCode
-        let newDiv = document.createElement("option")
-        newDiv.value = group.groupId
-        newDiv.innerHTML = groupDict[group.groupId]
-        groups.appendChild(newDiv)
+        groupDict[group.groupCode] = group.groupId
 
     });
 })
@@ -27,60 +23,47 @@ fetch('https://be.ta19heinsoo.itmajakas.ee/api/weeks/' + currentWeek).then(respo
 }).then(data => {
     console.log(data)
     console.log(data.start)
-    list = data.start.split('T')
-    list2 = list[0].split('-')
-    console.log(list2[2])
-    x = parseInt(list2[1])
-    list3 = []
-    for (let x = 0; x < 8; x++) {
-        const element = list3[x];
-        console.log(element)
 
-    }
     let newBox = document.createElement('div')
     newBox.classList.add("days")
     newBox.innerHTML = `
-        <button value=${parseInt(list2[2])} class="monday">E</button>
-        <button value=${parseInt(list2[2]) + 1} class="tuesday">T</button>
-        <button value=${parseInt(list2[2]) + 2} class="wednesday">K</button>
-        <button value=${parseInt(list2[2]) + 3} class="thursday">N</button>
-        <button value=${parseInt(list2[2]) + 4} class="friday">R</button>
-`
+        <button  value="2020-10-26T00:00:00Z"  class="monday">E</button>
+        <button value="2020-10-27T00:00:00Z" class="tuesday">T</button>
+        <button value="2020-10-28T00:00:00Z" onclick="location.href='index2.html'" class="wednesday">K</button>
+        <button value="2020-10-29T00:00:00Z" onclick="location.href='index.html'" class="thursday">N</button>
+        <button onclick=something() value="2020-10-30T00:00:00Z" onclick="location.href='index4.html'" class="friday">R</button>`
     container.appendChild(newBox)
 })
 
 
-fetch('https://be.ta19heinsoo.itmajakas.ee/api/lessons/groups=' + groupId + '&weeks=9').then(response => {
+fetch('https://be.ta19heinsoo.itmajakas.ee/api/lessons/groups=' + groupId + '&weeks=8').then(response => {
     return response.json()
 }).then(data => {
     console.log(data)
     console.log(data.timetableEvents)
     data.timetableEvents.forEach(el => {
-        let newLesson = document.createElement('div')
-        newLesson.classList.add("tund")
-        newLesson.innerHTML = `<div class="leftside">
-        <span class="aeg">${el.timeStart} - 14.15</span>
+        console.log(el)
+        function dosomething() {
+            let newLesson = document.createElement('div')
+            newLesson.classList.add("tund")
+            newLesson.innerHTML = `<div class="leftside">
+        <span class="aeg">${el.timeStart} - ${el.timeEnd}</span>
         <span class="pealkiri">${el.nameEn}</span>
         <span class="op">${el.teachers[0].name}</span>
-    <span class="tunninr"></span>
     </div>
     <div class="rightside">
     </div>
     <div class="side">
-        <span class="ruum">${el.rooms[0].roomCode}</span>
+    <span class="ruum">${el.rooms[0].roomCode}</span>
     </div>`
-        timetable.appendChild(newLesson)
+            timetable.appendChild(newLesson)
+        }
+        if (el.date == "2020-10-29T00:00:00Z") {
+            dosomething()
+        }
+
     })
 })
-
-
-
-function datetime() {
-}
-
-
-console.log(groupDict)
-console.log(weeksDict)
 
 
 groups.addEventListener('change', event => {

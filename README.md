@@ -43,3 +43,27 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 1. Vähem on rohkem -  ehk olen rahul, et sain alustada Figmast, mis tekitas mulle küll varem trotsi. Karl-Mihkel seletas rahulikult ja sain lõpuks aru.
 2. Märkasin endas rahulikkust väikeses kaoses. Olen endiselt vaatleja, sest ei saa veel kogu pildist aimu - kuidas saab kokku projekt "Tunniplaan". Näen, et oluline osa on juhil, hoiaks palju aega ja energiat kokku.
 3. Õppisin Figmas orienteeruma :-) Kuidas väljast tuua värve, fonte - et kõikidelt fontidel polegi täpitähti..
+### - Kenneth Lember
+1. Ma oleks tahtnud pigem HTML ja CSS meeskonnas olla, kuna see on juba üsna mugav mulle, aga õppida on mul veel nendes küllalt. JavaScriptiga ma ei ole piisavalt osav, et hakata ise nullist midagi tegema.
+2. Vaatamata sellele, et ma nullist ise midagi JS-is kirjutada ei oska, sain aidata meeskonnal parandada/kirjutada koodi. Meeskonnakaaslastega, kellega varem kokku puutunud pole, suhtlen juba mugavalt, nii et olen sellega hästi harjunud.
+3. Tehniliselt ma õppisin JS-i üldiselt juurde meeskonnakaaslastelt, arvan, et järgmiseks projektiks juba saaksin isegi koodi kirjutamisega rohkem juurde aidata.
+
+### - Janar Kuusk
+1. Oleksin soovinud teha figmat, kuna see on mulle rohkem meelejärgi.
+2. Õppisin seda, et peaks teamworki paremini korraldama
+3. Erilist midagi juurde ei õppinud.
+
+### - Jennifer Tarvis
+1. Ei, sain praktiseerida uusi ülesandeid, mida varem ei ole projektipäeval teinud.
+2. Arvan, et suhtlemisoskus.
+3. Kindlasti arendasin oma HTML-i ja CSS-i oskusi.
+
+### - Erki Leemet
+1. Ei, ma olin päris rahul ette antud ülesande pärast.
+2. Õppisin tiimi tööd.
+3. Õppisin uut JavaScripti metoodikat, millega saab lihtsamini andmeid index.htmli väljastada.
+
+### - Risto Siimer
+1. Oleksin tahtnud teha HTML/CSS.
+2. Õppisin paremini suhtlema inimestega.
+3. Nägin kõrvalt veidi javascripti ja arenesin selles suhtes.
