@@ -38,3 +38,8 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 1. Ma pigem oleksin meeskonnas täitnud ülessannet Figma grupis, kuna Figma on mulle juba enam-vähem tuttav ja seal oleksin saanud rohkem kaasa rääkida ja tegutseda. JavaScript oli minu jaoks raske ja arusaamatu.
 2. Proovisin arusaada asjast mida me veel õppinud pole, aga sellegi poolest küsisin oma JavaScripti kaaslastelt kuidas need asjad toimivad.
 3. Üks hea oskus, et ära jäta midagi öö peale. Tee tunnis niipalju kui oskad ja suudad.
+
+### - Kadi Remmelgas-Luka
+1. Vähem on rohkem -  ehk olen rahul, et sain alustada Figmast, mis tekitas mulle küll varem trotsi. Karl-Mihkel seletas rahulikult ja sain lõpuks aru ka suuremast pildist.
+2.
+3. Õppisin Figmas orienteeruma :-) Kuidas väljast tuua värve, fonte - et kõikidelt fontidel polegi täpitähti..
