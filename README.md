@@ -40,6 +40,6 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 3. Üks hea oskus, et ära jäta midagi öö peale. Tee tunnis niipalju kui oskad ja suudad.
 
 ### - Kadi Remmelgas-Luka
-1. Vähem on rohkem -  ehk olen rahul, et sain alustada Figmast, mis tekitas mulle küll varem trotsi. Karl-Mihkel seletas rahulikult ja sain lõpuks aru ka suuremast pildist.
-2.
+1. Vähem on rohkem -  ehk olen rahul, et sain alustada Figmast, mis tekitas mulle küll varem trotsi. Karl-Mihkel seletas rahulikult ja sain lõpuks aru.
+2. Märkasin endas rahulikkust väikeses kaoses. Olen endiselt vaatleja, sest ei saa veel kogu pildist aimu - kuidas saab kokku projekt "Tunniplaan". Näen, et oluline osa on juhil, hoiaks palju aega ja energiat kokku.
 3. Õppisin Figmas orienteeruma :-) Kuidas väljast tuua värve, fonte - et kõikidelt fontidel polegi täpitähti..
