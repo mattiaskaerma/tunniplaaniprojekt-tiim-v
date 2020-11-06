@@ -22,7 +22,7 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 [Figma](https://www.figma.com/file/O0yhjc7zTjdfMnYG9zTAi6/TA-Projekt__20-2__Tunniplaan-wireframe?node-id=6%3A13)
 
 ## Projekt
-[GitHub](https://github.com/krlmhkl/tunniplaaniprojekt-tiim-v)<br/>
+[Zone](https://tak19lember.itmajakas.ee/tunniplaan2)<br/>
 
 ## Iga tiimi liikme nime ja vastuseid kolmele küsimusele
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
