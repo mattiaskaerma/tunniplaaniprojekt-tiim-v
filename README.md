@@ -39,6 +39,10 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 2. Proovisin arusaada asjast mida me veel õppinud pole, aga sellegi poolest küsisin oma JavaScripti kaaslastelt kuidas need asjad toimivad.
 3. Väga raske on sellele vastata. Aga sain õppisin seda, et GitHubis on võimalik kontrollida seda, et kes pääseb koodile ligi ja sain teada, et on võimalik teha seal ka veakontrolli. Aga kuidas, seda ei oska seletada.
 
+### - Kadi Remmelgas-Luka
+1. Vähem on rohkem -  ehk olen rahul, et sain alustada Figmast, mis tekitas mulle küll varem trotsi. Karl-Mihkel seletas rahulikult ja sain lõpuks aru.
+2. Märkasin endas rahulikkust väikeses kaoses. Olen endiselt vaatleja, sest ei saa veel kogu pildist aimu - kuidas saab kokku projekt "Tunniplaan". Näen, et oluline osa on juhil, hoiaks palju aega ja energiat kokku.
+3. Õppisin Figmas orienteeruma :-) Kuidas väljast tuua värve, fonte - et kõikidelt fontidel polegi täpitähti..
 ### - Kenneth Lember
 1. Ma oleks tahtnud pigem HTML ja CSS meeskonnas olla, kuna see on juba üsna mugav mulle, aga õppida on mul veel nendes küllalt. JavaScriptiga ma ei ole piisavalt osav, et hakata ise nullist midagi tegema.
 2. Vaatamata sellele, et ma nullist ise midagi JS-is kirjutada ei oska, sain aidata meeskonnal parandada/kirjutada koodi. Meeskonnakaaslastega, kellega varem kokku puutunud pole, suhtlen juba mugavalt, nii et olen sellega hästi harjunud.
