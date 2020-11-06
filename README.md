@@ -23,3 +23,18 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 
 ## Projekt
 [GitHub](https://github.com/krlmhkl/tunniplaaniprojekt-tiim-v)<br/>
+
+## Iga tiimi liikme nime ja vastuseid kolmele küsimusele
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+2. Üks pehme oskus, mida õppisin ja endas arendasin
+3. Üks tehniline oskus, mida õppisin ja endas arendasin
+
+### - Karl-Mihkel Truu
+1. Oleksin soovinud teha midagi, mida natuke juba oskan, kuid milles saan veel õppida. Õnneks seda ka tegin, läksin olude sunnil Figmale üle.
+2. Õppisin paremini käituma olukorras, kus ma midagi ei oska. Samuti õppisin juhendama teisi asjades, mida oskan.
+3. Õppisin Figmas paremini komponente, teksti- ja värvistiile kasutama.
+
+### - Mattias Kaerma
+1. Ma pigem oleksin meeskonnas täitnud ülessannet Figma grupis, kuna Figma on mulle juba enam-vähem tuttav ja seal oleksin saanud rohkem kaasa rääkida ja tegutseda. JavaScript oli minu jaoks raske ja arusaamatu.
+2.
+3.
