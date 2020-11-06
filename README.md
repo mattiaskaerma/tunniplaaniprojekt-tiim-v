@@ -38,3 +38,28 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 1. Ma pigem oleksin meeskonnas täitnud ülessannet Figma grupis, kuna Figma on mulle juba enam-vähem tuttav ja seal oleksin saanud rohkem kaasa rääkida ja tegutseda. JavaScript oli minu jaoks raske ja arusaamatu.
 2. Proovisin arusaada asjast mida me veel õppinud pole, aga sellegi poolest küsisin oma JavaScripti kaaslastelt kuidas need asjad toimivad.
 3. Üks hea oskus, et ära jäta midagi öö peale. Tee tunnis niipalju kui oskad ja suudad.
+
+### - Kenneth Lember
+1. Ma oleks tahtnud pigem HTML ja CSS meeskonnas olla, kuna see on juba üsna mugav mulle, aga õppida on mul veel nendes küllalt. JavaScriptiga ma ei ole piisavalt osav, et hakata ise nullist midagi tegema.
+2. Vaatamata sellele, et ma nullist ise midagi JS-is kirjutada ei oska, sain aidata meeskonnal parandada/kirjutada koodi. Meeskonnakaaslastega, kellega varem kokku puutunud pole, suhtlen juba mugavalt, nii et olen sellega hästi harjunud.
+3. Tehniliselt ma õppisin JS-i üldiselt juurde meeskonnakaaslastelt, arvan, et järgmiseks projektiks juba saaksin isegi koodi kirjutamisega rohkem juurde aidata.
+
+### - Janar Kuusk
+1. Oleksin soovinud teha figmat, kuna see on mulle rohkem meelejärgi.
+2. Õppisin seda, et peaks teamworki paremini korraldama
+3. Erilist midagi juurde ei õppinud.
+
+### - Jennifer Tarvis
+1. Ei, sain praktiseerida uusi ülesandeid, mida varem ei ole projektipäeval teinud.
+2. Arvan, et suhtlemisoskus.
+3. Kindlasti arendasin oma HTML-i ja CSS-i oskusi.
+
+### - Erki Leemet
+1. Ei, ma olin päris rahul ette antud ülesande pärast.
+2. Õppisin tiimi tööd.
+3. Õppisin uut JavaScripti metoodikat, millega saab lihtsamini andmeid index.htmli väljastada.
+
+### - Risto Siimer
+1. Oleksin tahtnud teha HTML/CSS.
+2. Õppisin paremini suhtlema inimestega.
+3. Nägin kõrvalt veidi javascripti ja arenesin selles suhtes.
