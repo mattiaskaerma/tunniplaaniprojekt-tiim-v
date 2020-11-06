@@ -37,7 +37,7 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 ### - Mattias Kaerma
 1. Ma pigem oleksin meeskonnas täitnud ülessannet Figma grupis, kuna Figma on mulle juba enam-vähem tuttav ja seal oleksin saanud rohkem kaasa rääkida ja tegutseda. JavaScript oli minu jaoks raske ja arusaamatu.
 2. Proovisin arusaada asjast mida me veel õppinud pole, aga sellegi poolest küsisin oma JavaScripti kaaslastelt kuidas need asjad toimivad.
-3. Väga raske on sellele vastata. Aga sain õppisin seda, et GitHubis on võimalik kontrollida seda, et kes pääseb koodile ligi ja sain teada, et on võimalik teha seal ka veakontrolli. Aga kuidas, seda ei oska seletada.
+3. Väga raske on sellele vastata. Aga sain õppisin seda, et GitHubis on võimalik kontrollida seda, et kes pääseb koodile ligi ja sain teada, et on võimalik mingil viisil teha seal ka veakontrolli. Aga kuidas, seda ei oska seletada.
 
 ### - Kadi Remmelgas-Luka
 1. Vähem on rohkem -  ehk olen rahul, et sain alustada Figmast, mis tekitas mulle küll varem trotsi. Karl-Mihkel seletas rahulikult ja sain lõpuks aru.
