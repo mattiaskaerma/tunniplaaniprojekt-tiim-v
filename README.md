@@ -36,5 +36,5 @@ Uus tunniplaan peab võrreldes tahvel.edu.ee versiooniga olema mugavam kasutada 
 
 ### - Mattias Kaerma
 1. Ma pigem oleksin meeskonnas täitnud ülessannet Figma grupis, kuna Figma on mulle juba enam-vähem tuttav ja seal oleksin saanud rohkem kaasa rääkida ja tegutseda. JavaScript oli minu jaoks raske ja arusaamatu.
-2.
-3.
+2. Proovisin arusaada asjast mida me veel õppinud pole, aga sellegi poolest küsisin oma JavaScripti kaaslastelt kuidas need asjad toimivad.
+3. Üks hea oskus, et ära jäta midagi öö peale. Tee tunnis niipalju kui oskad ja suudad.
