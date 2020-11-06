@@ -45,8 +45,7 @@ fetch('https://be.ta19heinsoo.itmajakas.ee/api/weeks/' + currentWeek).then(respo
         <button value=${parseInt(list2[2]) + 2} class="wednesday">K</button>
         <button value=${parseInt(list2[2]) + 3} class="thursday">N</button>
         <button value=${parseInt(list2[2]) + 4} class="friday">R</button>
-        <button value=${parseInt(list2[2]) + 5} class="saturday">L</button>
-        <button value=${parseInt(list2[2]) + 6} class="sunday">P</button>`
+`
     container.appendChild(newBox)
 })
 
@@ -60,16 +59,15 @@ fetch('https://be.ta19heinsoo.itmajakas.ee/api/lessons/groups=' + groupId + '&we
         let newLesson = document.createElement('div')
         newLesson.classList.add("tund")
         newLesson.innerHTML = `<div class="leftside">
-        <span class="aeg">${el.timeStart}<br>14.15</span>
-        <br>
+        <span class="aeg">${el.timeStart} - 14.15</span>
+        <span class="pealkiri">${el.nameEn}</span>
+        <span class="op">${el.teachers[0].name}</span>
     <span class="tunninr"></span>
     </div>
     <div class="rightside">
-        <span class="pealkiri">${el.nameEn}</span>
-        <span class="ruum">${el.rooms[0].roomCode}</span>
-        <span class="op">${el.teachers[0].name}</span>
     </div>
     <div class="side">
+        <span class="ruum">${el.rooms[0].roomCode}</span>
     </div>`
         timetable.appendChild(newLesson)
     })
